@@ -33,9 +33,8 @@ First, I am doing some aggregation over wave of the data set (as I have six wave
 ```
 
 ```{r}
-
 #graphing mean math scores for grade 2
-setwd("C:/Users/user/Dropbox/coursera/Relative-age-graphs/Relative-age-graphs")
+setwd("C:/Users/user/Dropbox/coursera/Relative-age-graphs")
 load("new.Rda")
 load("new2.Rda")
 library(ggplot2)
